@@ -1,2 +1,2 @@
 # capstone-spaceinvaders
-Capstone Space Invaders
+OpenHPI Project
